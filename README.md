@@ -17,6 +17,11 @@ Welcome to the Weapon Detection AI/ML Model repository, an advanced system desig
 **How to Use:**
 Clone or download the repository to access the pre-trained model and necessary code for integration. Follow the comprehensive documentation provided to seamlessly incorporate the weapon detection model into your projects.
 
+**Output**
+![Screenshot from 2024-01-11 12-21-44](https://github.com/pruthuraut/Weapon_detection/assets/124878664/43d16bc3-6da6-40b7-ace9-7db904b577d8)
+![Screenshot from 2024-01-11 12-22-04](https://github.com/pruthuraut/Weapon_detection/assets/124878664/2e7b76db-a51a-468c-831e-32b0fcf7cb6a)
+![Screenshot from 2024-01-11 12-22-24](https://github.com/pruthuraut/Weapon_detection/assets/124878664/df500bbc-a8f8-4a49-a90b-c035a7a3c800)
+
 **Contributions and Feedback:**
 We welcome contributions from the community to enhance the model's capabilities further. If you encounter any issues, have suggestions for improvements, or want to contribute to the project, please feel free to open an issue or submit a pull request.
 
