@@ -1,0 +1,3 @@
+0 no weapon
+1 knife
+2 scissor
